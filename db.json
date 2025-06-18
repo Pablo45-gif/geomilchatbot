@@ -1,0 +1,122 @@
+[
+  {
+    "ref": "624845af-2bf6-470f-bf4b-b9e55aeece3d",
+    "keyword": "5c22e05f9a94b7facab0453d43c5dfe4",
+    "answer": "IA cuanto cuesta enviar 1.3 Kilos a España",
+    "options": {},
+    "from": "593967426569",
+    "refSerialize": "e1d75141559ad2939534ce06af7eb603"
+  },
+  {
+    "ref": "ans_0c9e719f-884b-4117-ba45-4a0aff88bdcb",
+    "keyword": "key_24bc5823-f545-48ff-90c9-33de81bab93f",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "b39fa041261ddf4703b1a5580a4aa877",
+    "from": "593967426569"
+  },
+  {
+    "ref": "7639f1cf-bdbd-42e6-ac3d-f345fd34e986",
+    "keyword": null,
+    "answer": "Para enviar 1.3 kg a España 🇪🇸, aplicamos la regla de redondeo:  \n- Peso real: 1.3 kg → se cobra como 1.5 kg (por estar entre 1 y 1.5 kg).  \n\nCosto total:  \n- Primer kilo: $15.98  \n- Medio kilo adicional: $5.92  \n💰 Total: $21.90  \n\n¿Necesitas saber si es para envío a agencia o domicilio? 🚚✨ Si es a domicilio, el cálculo varía. ¡Avísame si necesitas más detalles! 📦",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "593967426569",
+    "refSerialize": "e6f8703b37583d3ffde0190103e0d42d"
+  },
+  {
+    "ref": "6d0dcb75-1a1d-4ba1-9975-3a3109957ac1",
+    "keyword": "b39fa041261ddf4703b1a5580a4aa877",
+    "answer": "IA si envío 3.3 kilos cuanto me sale a España",
+    "options": {},
+    "from": "593967426569",
+    "refSerialize": "f7a71d83060a1f74d33fd82c31b6634a"
+  },
+  {
+    "ref": "ans_0c9e719f-884b-4117-ba45-4a0aff88bdcb",
+    "keyword": "key_24bc5823-f545-48ff-90c9-33de81bab93f",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "b39fa041261ddf4703b1a5580a4aa877",
+    "from": "593967426569"
+  },
+  {
+    "ref": "6553f0a0-bd8b-4295-adc6-0b1bfca992c0",
+    "keyword": null,
+    "answer": "🤖 Lo siento, no tengo una respuesta clara.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "593967426569",
+    "refSerialize": "31ff0bc432eeb338d1cd435ae20cd6ff"
+  },
+  {
+    "ref": "b5d7e25c-fcf2-4648-99a7-bff56e24b49c",
+    "keyword": "b39fa041261ddf4703b1a5580a4aa877",
+    "answer": "IA puedo enviar tamales",
+    "options": {},
+    "from": "593967426569",
+    "refSerialize": "4d4b7a6ee0c2c027d167c622fb89b939"
+  },
+  {
+    "ref": "ans_0c9e719f-884b-4117-ba45-4a0aff88bdcb",
+    "keyword": "key_24bc5823-f545-48ff-90c9-33de81bab93f",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "b39fa041261ddf4703b1a5580a4aa877",
+    "from": "593967426569"
+  },
+  {
+    "ref": "9a9bba98-1892-4200-b8bf-725c739e7ec7",
+    "keyword": null,
+    "answer": "¡Claro que sí! 🫔✨ Puedes enviar tamales y humitas, pero deben estar empacados al vacío para garantizar su conservación durante el transporte. 🌟 La buena noticia es que en nuestras agencias contamos con el servicio de empacado al vacío, así que no tendrás que preocuparte por eso. 🛠️💼 \n\n¿Necesitas ayuda con algún otro detalle del envío? ¡Estamos aquí para ayudarte! 😊📦",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "593967426569",
+    "refSerialize": "6c5fa671cb85e1a91257920891474962"
+  }
+]

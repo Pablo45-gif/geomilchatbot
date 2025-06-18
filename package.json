@@ -1,0 +1,19 @@
+{
+  "name": "base-bailey-memory",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "prestart": "npx eslint . --no-ignore"
+  },
+  "dependencies": {
+    "@bot-whatsapp/bot": "^1.6.0",
+    "@bot-whatsapp/portal": "^1.6.0",
+    "@bot-whatsapp/provider": "^1.6.0",
+    "@bot-whatsapp/database": "^1.6.0",
+    "axios": "^1.6.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}

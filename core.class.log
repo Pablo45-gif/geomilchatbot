@@ -1,0 +1,117 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967426569@s.whatsapp.net',
+    fromMe: false,
+    id: 'DDBE6B2C35EDE64508044CFB90BD5406',
+    participant: undefined
+  },
+  messageTimestamp: 1750223668,
+  pushName: 'Pabosl',
+  broadcast: false,
+  message: Message {
+    conversation: 'IA cuanto cuesta enviar 1.3 Kilos a España',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'IA cuanto cuesta enviar 1.3 Kilos a España',
+  from: '593967426569'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0c9e719f-884b-4117-ba45-4a0aff88bdcb',
+  keyword: 'key_24bc5823-f545-48ff-90c9-33de81bab93f',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'b39fa041261ddf4703b1a5580a4aa877'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967426569@s.whatsapp.net',
+    fromMe: false,
+    id: 'E3AFCFB9FFDEC481CE96623E2FF9433E',
+    participant: undefined
+  },
+  messageTimestamp: 1750223752,
+  pushName: 'Pabosl',
+  broadcast: false,
+  message: Message {
+    conversation: 'IA si envío 3.3 kilos cuanto me sale a España',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'IA si envío 3.3 kilos cuanto me sale a España',
+  from: '593967426569'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0c9e719f-884b-4117-ba45-4a0aff88bdcb',
+  keyword: 'key_24bc5823-f545-48ff-90c9-33de81bab93f',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'b39fa041261ddf4703b1a5580a4aa877'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593967426569@s.whatsapp.net',
+    fromMe: false,
+    id: '1B08BB8C3642DC599D0C178E694E6B37',
+    participant: undefined
+  },
+  messageTimestamp: 1750223810,
+  pushName: 'Pabosl',
+  broadcast: false,
+  message: Message {
+    conversation: 'IA puedo enviar tamales',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'IA puedo enviar tamales',
+  from: '593967426569'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0c9e719f-884b-4117-ba45-4a0aff88bdcb',
+  keyword: 'key_24bc5823-f545-48ff-90c9-33de81bab93f',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'b39fa041261ddf4703b1a5580a4aa877'
+}
