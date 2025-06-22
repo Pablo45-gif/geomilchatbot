@@ -1,56 +1,35 @@
 [
   {
-    "ref": "b5eced46-efec-4bef-859e-89b9bb00a8b6",
-    "keyword": "9e00c2821811dca21bd85b070689d030",
-    "answer": "que agencia queda cerca de Broadway NY quiero enviar a la más cercana",
-    "options": {},
-    "from": "593967426569",
-    "refSerialize": "e788a8d93e6547cd6b82c2c57530962a"
-  },
-  {
-    "ref": "ans_7d217bc0-9c68-4b05-ba88-3a429f21e17f",
-    "keyword": "key_8b428936-d27a-4ee6-acb4-76f87eea042e",
-    "answer": "__call_action__",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "205f7643c44a5a6fd1ae19bf8f5eebda",
-    "from": "593967426569"
-  },
-  {
-    "ref": "a5474149-03ac-4747-af8d-f8248e654d36",
-    "keyword": null,
-    "answer": "🏢 ¡Claro! En Nueva York, nuestras agencias GEOMIL más cercanas a Broadway son:  \n1. BRONX: 1347 Hoe Ave. 🗽  \n2. CORONA (Queens): 111-15 Roosevelt Ave. 🚕  \n3. OSSINING: 22 Croston Ave. 🌆  \n\nSi tu destino es en Manhattan, la opción más práctica sería Bronx o Corona (Queens). Te recomiendo confirmar la dirección exacta del destinatario para elegir la más cercana. 📍  \n\n¿Necesitas ayuda con el proceso de envío? 😊",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "delay": 0
-    },
-    "from": "593967426569",
-    "refSerialize": "bfebc188a409d800d9d24ccaf3d56dd5"
-  },
-  {
-    "ref": "dd7fbe37-dd1f-45a1-b0c8-57bf38d7af86",
+    "ref": "c8235ebf-6a89-46c8-bee8-e952a01e2044",
     "keyword": "205f7643c44a5a6fd1ae19bf8f5eebda",
-    "answer": "w 118th St agencia más cercana",
+    "answer": "IA estas ahi",
     "options": {},
     "from": "593967426569",
-    "refSerialize": "9d5ea3af791322b8f0287bfc17909d58"
+    "refSerialize": "1075bdefff72adc2aa09172f4f5d1047"
+  },
+  {
+    "ref": "ans_ce22bb77-1073-4730-a9ab-11abfa76ae93",
+    "keyword": "key_4c187d46-7096-4e1d-9824-d736fc799be2",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "83eb1a170073987c923086822822e1ab",
+    "from": "593967426569"
   },
   {
     "ref": "ans_7d217bc0-9c68-4b05-ba88-3a429f21e17f",
     "keyword": "key_8b428936-d27a-4ee6-acb4-76f87eea042e",
-    "answer": "__call_action__",
+    "answer": "⚠️ Hubo un problema al procesar tu solicitud, por favor pregunta de nuevo.",
     "options": {
       "media": null,
       "buttons": [],
@@ -67,29 +46,16 @@
     "from": "593967426569"
   },
   {
-    "ref": "5dd49168-f852-445d-bb5e-a3e97a6bc317",
-    "keyword": null,
-    "answer": "🌍 ¡Hola! Para ubicar la agencia más cercana a 118th St en EE.UU., te comparto nuestras sucursales en Nueva York:\n\n📍 Bronx:  \n1347 Hoe Ave, Bronx, NY 10459.  \n📍 Corona (Queens):  \n111-15 Roosevelt Ave, Corona, NY 11368.  \n📍 Ossining:  \n22 Croton Ave, Ossining, NY 10562.  \n\nSi necesitas confirmar la más próxima a tu ubicación exacta, te recomiendo contactar a nuestro soporte 📞 +593 997100350 (horario: L-V 8:00-18:00, Sáb 9:00-14:00). ¡Estamos para ayudarte! 🚚✨",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "delay": 0
-    },
-    "from": "593967426569",
-    "refSerialize": "3dc3e0fe350ba197d2780f5cd036626f"
-  },
-  {
-    "ref": "f28db684-1991-4cd2-b65e-b604c9d479b5",
+    "ref": "1e87c813-0446-4b4e-8bbd-a7b18606597d",
     "keyword": "205f7643c44a5a6fd1ae19bf8f5eebda",
-    "answer": "w 118th St agencia más cercana cual es la agencia más cercana",
+    "answer": "IA estas ahi",
     "options": {},
     "from": "593967426569",
-    "refSerialize": "f0ac175b7aa6358568cf3a89ebcc55e7"
+    "refSerialize": "1075bdefff72adc2aa09172f4f5d1047"
   },
   {
-    "ref": "ans_7d217bc0-9c68-4b05-ba88-3a429f21e17f",
-    "keyword": "key_8b428936-d27a-4ee6-acb4-76f87eea042e",
+    "ref": "ans_ce22bb77-1073-4730-a9ab-11abfa76ae93",
+    "keyword": "key_4c187d46-7096-4e1d-9824-d736fc799be2",
     "answer": "__call_action__",
     "options": {
       "media": null,
@@ -103,13 +69,13 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "205f7643c44a5a6fd1ae19bf8f5eebda",
+    "refSerialize": "83eb1a170073987c923086822822e1ab",
     "from": "593967426569"
   },
   {
-    "ref": "c67a4693-a2ac-4169-ae71-0bcfa4db2d9f",
+    "ref": "4d136f26-1828-4dd0-8683-e8475408f4e9",
     "keyword": null,
-    "answer": "¡Hola! 🌟 Para ubicar la agencia más cercana a 118th St, te comparto nuestras sucursales en Nueva York 🇺🇸:\n\n1. CORONA (Queens): 111-15 Roosevelt Ave 🗽  \n2. BRONX: 1347 Hoe Ave 🏙️  \n3. OSSINING: 22 Croston Ave 🌆  \n\nSi necesitas más precisión, ¡escríbenos tu ciudad o código postal! 📍 O contacta a nuestro soporte: +593 997100350 📲. ¡Estamos para ayudarte! 😊",
+    "answer": "¡Sí, estoy aquí! 😊 Listo para ayudarte con cualquier consulta sobre Geomil Group: equipos de construcción, demolición, reciclaje, o temas técnicos de maquinaria. Si necesitas detalles sobre productos como cucharas trituradoras, pulpos hidráulicos o servicios de postventa, ¡cuenta conmigo! ¿En qué puedo colaborarte hoy? 🚜🔧",
     "options": {
       "media": null,
       "buttons": [],
@@ -117,294 +83,6 @@
       "delay": 0
     },
     "from": "593967426569",
-    "refSerialize": "da4a733bfaa18940dc36dfc2cf18b74b"
-  },
-  {
-    "ref": "9fb427f9-08c6-431d-9e8d-4f400752ac74",
-    "keyword": "205f7643c44a5a6fd1ae19bf8f5eebda",
-    "answer": "198-46 W 118 th St, NY código postal 10026 agencia más cerca",
-    "options": {},
-    "from": "593967426569",
-    "refSerialize": "9e24d52722a0010b6a0c7bce9460020f"
-  },
-  {
-    "ref": "ans_7d217bc0-9c68-4b05-ba88-3a429f21e17f",
-    "keyword": "key_8b428936-d27a-4ee6-acb4-76f87eea042e",
-    "answer": "__call_action__",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "205f7643c44a5a6fd1ae19bf8f5eebda",
-    "from": "593967426569"
-  },
-  {
-    "ref": "eb379f81-da99-4fad-8eec-a912188b0376",
-    "keyword": null,
-    "answer": "📍 La agencia GEOMIL más cercana a tu ubicación en Nueva York (10026) es:  \nBRONX - 1347 HOE AVE, BRONX, NY 🚚.  \n\n¿Necesitas ayuda con algún otro servicio de envío? 😊",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "delay": 0
-    },
-    "from": "593967426569",
-    "refSerialize": "1f39743acfb31c083b30156145f48660"
-  },
-  {
-    "ref": "26159dd7-f081-418c-aa73-25119be036f8",
-    "keyword": "205f7643c44a5a6fd1ae19bf8f5eebda",
-    "answer": "a cuantos minutos queda 198-46 W 118 th St, NY código postal 10026 agencia más cerca de agencia Bronx - 1347",
-    "options": {},
-    "from": "593967426569",
-    "refSerialize": "c8d354d869c2b149c2e329805213348f"
-  },
-  {
-    "ref": "ans_7d217bc0-9c68-4b05-ba88-3a429f21e17f",
-    "keyword": "key_8b428936-d27a-4ee6-acb4-76f87eea042e",
-    "answer": "__call_action__",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "205f7643c44a5a6fd1ae19bf8f5eebda",
-    "from": "593967426569"
-  },
-  {
-    "ref": "10e1ab31-3060-4cbf-8288-0ada941abaad",
-    "keyword": null,
-    "answer": "📍 Para calcular el tiempo exacto desde 198-46 W 118th St, NY (10026) hasta nuestra agencia en Bronx - 1347 Hoe Ave, te recomiendo usar Google Maps o Waze 🌍. Estas apps te darán la ruta más rápida y el tiempo en minutos según el tráfico en tiempo real. \n\n📌 Dirección exacta de la agencia Bronx:  \n1347 Hoe Ave, Bronx, NY 10459.  \nSi necesitas ayuda adicional, escríbenos al soporte: 📲 +593 997100350. ¡Estamos para ayudarte! 😊",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "delay": 0
-    },
-    "from": "593967426569",
-    "refSerialize": "82d225e532d28e3e0b1b86c4c3a56183"
-  },
-  {
-    "ref": "57d36dc3-a7d5-4a5e-ac54-8d0c7db2e9e7",
-    "keyword": "205f7643c44a5a6fd1ae19bf8f5eebda",
-    "answer": "ola",
-    "options": {},
-    "from": "593967426569",
-    "refSerialize": "170305f1cad47b2a12c9b79fc5af9bac"
-  },
-  {
-    "ref": "209a2310-be6e-4f2f-a758-198800f6f1b8",
-    "keyword": "170305f1cad47b2a12c9b79fc5af9bac",
-    "answer": "a cuantos minutos queda 198-46 W 118 th St, NY código postal 10026 agencia más cerca de agencia Bronx - 1347 tiempo referencial",
-    "options": {},
-    "from": "593967426569",
-    "refSerialize": "8b3bf7b70b24e12fb64b771dd9cd2127"
-  },
-  {
-    "ref": "ans_7d217bc0-9c68-4b05-ba88-3a429f21e17f",
-    "keyword": "key_8b428936-d27a-4ee6-acb4-76f87eea042e",
-    "answer": "__call_action__",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "205f7643c44a5a6fd1ae19bf8f5eebda",
-    "from": "593967426569"
-  },
-  {
-    "ref": "06499ade-6f94-47dc-b67e-9394189d6f41",
-    "keyword": null,
-    "answer": "📍 La agencia más cercana a tu ubicación es Bronx - 1347 Hoe Ave en NY. 🚚 \n\nLos envíos a EE.UU. tienen un tiempo estimado de 5-7 días hábiles. ⏳ Si tu paquete ya está en camino, te recomendamos rastrearlo en nuestra web con el código proporcionado. \n\n¿Necesitas ayuda con otro detalle? 😊 \n\n☎️ Soporte: +593 997100350",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "delay": 0
-    },
-    "from": "593967426569",
-    "refSerialize": "9964a3fb5270d6de26fa5dbdcbca34a2"
-  },
-  {
-    "ref": "14a9030f-dbea-4036-b650-90e901bef4fd",
-    "keyword": "205f7643c44a5a6fd1ae19bf8f5eebda",
-    "answer": "a cuantos minutos queda 198-46 W 118 th St, a agencia Bronx",
-    "options": {},
-    "from": "593967426569",
-    "refSerialize": "f9fd0e81bcc19c548b2ef40ad9c73cd4"
-  },
-  {
-    "ref": "ans_7d217bc0-9c68-4b05-ba88-3a429f21e17f",
-    "keyword": "key_8b428936-d27a-4ee6-acb4-76f87eea042e",
-    "answer": "__call_action__",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "205f7643c44a5a6fd1ae19bf8f5eebda",
-    "from": "593967426569"
-  },
-  {
-    "ref": "25e6a2c4-9fce-4480-96e9-697a43ca8ed2",
-    "keyword": null,
-    "answer": "📍 La agencia GEOMIL en Bronx, NY está ubicada en 1347 Hoe Ave. Para saber el tiempo exacto de traslado desde tu ubicación, te recomiendo usar aplicaciones de navegación como Google Maps 🗺️. \n\n¿Necesitas ayuda con algún servicio de envío, documentación o tarifas? Estoy aquí para ayudarte 📦✨. \n\n☎️ Soporte: +593 997100350 (WhatsApp).",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "delay": 0
-    },
-    "from": "593967426569",
-    "refSerialize": "abfaea88d20946e52b821e5f1fb45720"
-  },
-  {
-    "ref": "eb8e71fe-553b-4bd1-9bb0-1fffc20d07c4",
-    "keyword": "205f7643c44a5a6fd1ae19bf8f5eebda",
-    "answer": "a cuantos minutos queda 198-46 W 118 th St tiempo estimado, a agencia Bronx",
-    "options": {},
-    "from": "593967426569",
-    "refSerialize": "47e5c74e30257d53cd51e88db9775612"
-  },
-  {
-    "ref": "ans_7d217bc0-9c68-4b05-ba88-3a429f21e17f",
-    "keyword": "key_8b428936-d27a-4ee6-acb4-76f87eea042e",
-    "answer": "__call_action__",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "205f7643c44a5a6fd1ae19bf8f5eebda",
-    "from": "593967426569"
-  },
-  {
-    "ref": "10aff57a-dfec-4666-b576-e8a42d2a6912",
-    "keyword": null,
-    "answer": "📦 ¡Hola! Para envíos a nuestras agencias en 🇺🇸 EE.UU., el tiempo de entrega estimado es de 5-7 días hábiles. \n\nℹ️ Nuestra agencia en el Bronx está ubicada en 1347 Hoe Ave (no coincide exactamente con la dirección que mencionas). Te recomiendo confirmar si el destino es correcto o si necesitas ajustarlo. \n\n¿Necesitas ayuda para verificar la dirección o el proceso de envío? 📲 Escríbenos al +593 997100350 para asistencia inmediata. ¡Estamos aquí para ayudarte! 🚚✨",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "delay": 0
-    },
-    "from": "593967426569",
-    "refSerialize": "08c5489e84ec1b6c7607208992b4710e"
-  },
-  {
-    "ref": "88523353-de67-4eae-b8da-0d522910cf3e",
-    "keyword": "205f7643c44a5a6fd1ae19bf8f5eebda",
-    "answer": "distancia entre 198-46 W 118 th St, a agencia Bronx",
-    "options": {},
-    "from": "593967426569",
-    "refSerialize": "4f7325ae942f2d28331b913b9ac425fb"
-  },
-  {
-    "ref": "ans_7d217bc0-9c68-4b05-ba88-3a429f21e17f",
-    "keyword": "key_8b428936-d27a-4ee6-acb4-76f87eea042e",
-    "answer": "__call_action__",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "205f7643c44a5a6fd1ae19bf8f5eebda",
-    "from": "593967426569"
-  },
-  {
-    "ref": "aca06b5f-a832-4f70-aaf3-730b95c50471",
-    "keyword": null,
-    "answer": "📍 La agencia GEOMIL en Bronx está ubicada en 1347 Hoe Ave. Para calcular la distancia exacta desde 198-46 W 118th St, te recomiendo usar Google Maps o Waze ingresando ambas direcciones. 🌎 Si necesitas asistencia con el proceso, ¡no dudes en contactar al soporte: +593 997100350! 📞✨",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "delay": 0
-    },
-    "from": "593967426569",
-    "refSerialize": "cad5b565a0be7ac943fd17f8fecb7b81"
-  },
-  {
-    "ref": "8f100377-c414-4f5f-a2d4-c2c3a63e2358",
-    "keyword": "205f7643c44a5a6fd1ae19bf8f5eebda",
-    "answer": "1513 lexington AVE #4s, codigo 10029 agencia más cercana",
-    "options": {},
-    "from": "593967426569",
-    "refSerialize": "d0fda2704bb8a3507717df40d1c4ac75"
-  },
-  {
-    "ref": "ans_7d217bc0-9c68-4b05-ba88-3a429f21e17f",
-    "keyword": "key_8b428936-d27a-4ee6-acb4-76f87eea042e",
-    "answer": "__call_action__",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "205f7643c44a5a6fd1ae19bf8f5eebda",
-    "from": "593967426569"
-  },
-  {
-    "ref": "55b9afc6-95b9-4076-b67f-ad655ed8b3cf",
-    "keyword": null,
-    "answer": "📍 La dirección 1513 Lexington Ave #4s (Código 10029) está en Manhattan, Nueva York. La agencia GEOMIL más cercana es:  \nBRONX 🗽  \n👉 1347 HOE AVE, Bronx, NY  \n\nOtras opciones en NY:  \n• CORONA QNNS: 111-15 ROOSEVELT AVE  \n• OSSINING: 22 CROSTON AVE  \n\n¿Necesitas ayuda con el proceso de envío o más detalles? 😊 ¡Estamos para ayudarte!",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "delay": 0
-    },
-    "from": "593967426569",
-    "refSerialize": "ae67a1319d853af3094947aa860763b0"
+    "refSerialize": "4fce54d873bd9d471f5d766335654adb"
   }
 ]

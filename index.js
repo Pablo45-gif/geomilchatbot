@@ -3,18 +3,14 @@ const BaileysProvider = require('@bot-whatsapp/provider/baileys');
 const JsonFileAdapter = require('@bot-whatsapp/database/json');
 const axios = require('axios');
 
-// 🔹 FLUJO PRINCIPAL
+// 🔹 FLUJO SALUDO PRINCIPAL
 const flow2 = addKeyword(['hola', 'buen día', 'buen dia', 'buenos días', 'buenas tardes', 'buenas noches', 'buenos dias'])
-  .addAnswer('🙌 Hola, estás en contacto con el asistente virtual IA de *Geomil Group*.')
+  .addAnswer('🙌 Hola, estás en contacto con el asistente virtual IA de Geomil Group.')
   .addAnswer(
     'Tienes preguntas de envíos o cotizaciones, solo escribe "*IA + (tu pregunta)*" y te contestaremos en segundos',
-    'Ejm: Ia cuanto sale el costo a Madrid agencia'
+    'Ejemplo: IA cuanto sale el costo a Madrid agencia'
   )
-  .addAnswer(
-    'Recuerda ser claro y detallar muy bien tu pregunta para darte una respuesta corta y concisa.',
-    null,
-    null
-  );
+  .addAnswer('Recuerda ser claro y detallar muy bien tu pregunta para darte una respuesta corta y concisa.');
 
 // 🔹 FLUJO IA
 const flujoIA = addKeyword(['ia', 'inteligencia'])
@@ -22,9 +18,9 @@ const flujoIA = addKeyword(['ia', 'inteligencia'])
     try {
       const userMessage = ctx.body;
 
-      const response = await axios.post('http://127.0.0.1:5000/ask', {
+      const response = await axios.post('http://127.0.0.1:5000/ask', {  // Cambia aquí si el backend está remoto
         message: userMessage
-      }, { timeout: 19000 });
+      }, { timeout: 22000 });
 
       const aiResponse = response.data?.response || '🤖 Lo siento, no tengo una respuesta clara.';
       return await flowDynamic([{ body: aiResponse }]);
@@ -34,7 +30,7 @@ const flujoIA = addKeyword(['ia', 'inteligencia'])
     }
   });
 
-// 🔹 FLUJO GRACIAS
+// 🔹 FLUJO AGRADECIMIENTOS
 const flowGracias = addKeyword([
   'gracias', 'ok', 'grcs', 'grcs!', 'grx', 'grasias', 'grac', 'mil grcs',
   'ok gracias', 'ok grcs', 'oky gracias', 'grxs', 'okas gracias', 'muxas gracias',
@@ -63,4 +59,9 @@ const main = async () => {
   });
 };
 
-main();
+// Ejecutar y avisar al iniciar
+main().then(() => {
+  console.log('🤖 Bot iniciado y listo para recibir mensajes.');
+}).catch(err => {
+  console.error('Error iniciando el bot:', err);
+});
