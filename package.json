@@ -15,9 +15,10 @@
   "author": "Pablo Rivera",
   "license": "MIT",
   "dependencies": {
-    "@bot-whatsapp/bot": "^1.5.1",
-    "@bot-whatsapp/provider": "^1.5.1",
-    "@bot-whatsapp/database": "^1.5.1",
+    "@bot-whatsapp/bot": "^0.1.38",
+    "@bot-whatsapp/provider": "^0.1.38",
+    "@bot-whatsapp/database": "^0.1.38",
     "axios": "^1.6.8"
   }
 }
+
