@@ -33,7 +33,8 @@ const flujoIA = addKeyword(['ia', 'inteligencia'])
       return fallBack('⚠️ Hubo un problema al procesar tu solicitud, por favor pregunta de nuevo .');
     }
   });
-  // 🔹 FLUJO GRACIAS
+
+// 🔹 FLUJO GRACIAS
 const flowGracias = addKeyword(['gracias','ok',
   'grcs',
   'grcs!',
@@ -83,12 +84,10 @@ const flowGracias = addKeyword(['gracias','ok',
   'gracias estimada',
   'exelente gracias', 
 ]).addAnswer(
-    ['🚀 Es un gusto ayudarte. Recuerda que Geomil hace envíos internacionales de forma rápida y segura.',
-    ],
+    ['🚀 Es un gusto ayudarte. Recuerda que Geomil hace envíos internacionales de forma rápida y segura.'],
     null,
     null,
 )
-
 
 // Inicialización del bot
 const main = async () => {
@@ -104,5 +103,3 @@ const main = async () => {
 };
 
 main();
-
-

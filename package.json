@@ -1,19 +1,23 @@
 {
-  "name": "base-bailey-memory",
+  "name": "geomilchatbot",
   "version": "1.0.0",
-  "main": "app.js",
+  "description": "Chatbot de Geomil Group con IA",
+  "main": "index.js",
   "scripts": {
-    "start": "node app.js",
-    "prestart": "npx eslint . --no-ignore"
+    "start": "node index.js"
   },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "geomil",
+    "ia"
+  ],
+  "author": "Pablo Rivera",
+  "license": "MIT",
   "dependencies": {
-    "@bot-whatsapp/bot": "^1.6.0",
-    "@bot-whatsapp/portal": "^1.6.0",
-    "@bot-whatsapp/provider": "^1.6.0",
-    "@bot-whatsapp/database": "^1.6.0",
-    "axios": "^1.6.2"
-  },
-  "devDependencies": {
-    "eslint": "^8.56.0"
+    "@bot-whatsapp/bot": "^1.5.1",
+    "@bot-whatsapp/provider": "^1.5.1",
+    "@bot-whatsapp/database": "^1.5.1",
+    "axios": "^1.6.8"
   }
 }
