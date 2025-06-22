@@ -34,14 +34,54 @@ Geomil Group es una empresa líder en soluciones logísticas local e internacion
 3. REGLA DE REDONDEO DE PESO PARA ENVÍOS DE ESPAÑA
    -Cuando se calcula el peso de un paquete, se aplica la siguiente regla:
    -Si el peso esta entre 1 kilo y 1.5 se cobra por 1.5 kilos
-   -Si el peso esta entre 1 kilo y 2 se cobra por 2 kilos
+   -Si el peso esta entre 1.6 kilo y 2 se cobra por 2 kilos
+   -Si el peso esta entre 2.1 kilo y 2.5 se cobra por 2.5 kilos
+   -Si el peso esta entre 2.6 kilo y 3 se cobra por 3 kilos
+   -Si el peso esta entre 3.1 kilo y 3.5 se cobra por 3.5 kilos
+   -Si el peso esta entre 3.6 kilo y 4 se cobra por 4 kilos
    -Este patrón se repite sucesivamente
 
 4. REGLA DE REDONDEO DE PESO PARA ENVÍOS DE EEUU
    -Cuando se calcula el peso de un paquete, se aplica la siguiente regla:
-   -Si el peso real es mayor a 2 LB pero menor o igual a 2.5 LB, se cobra como 2.5 LB.
-   -Si el peso supera los 2.5 LB (por ejemplo, 2.6 LB o 2.6 LB), se cobra como 3 LB.
-
+ -Si el peso esta entre 1.6 y 2.0 lb → se cobra por 2.0 lb
+ -Si el peso esta entre2.1 y 2.5 lb → se cobra por 2.5 lb
+ -Si el peso esta entre 2.6 y 3.0 lb → se cobra por 3.0 lb
+ -Si el peso esta entre 3.1 y 3.5 lb → se cobra por 3.5 lb
+ -Si el peso esta entre 3.6 y 4.0 lb → se cobra por 4.0 lb
+ -Si el peso esta entre 4.1 y 4.5 lb → se cobra por 4.5 lb
+ -Si el peso esta entre 4.6 y 5.0 lb → se cobra 5.0 lb
+ -Si el peso esta entre 5.1 y 5.5 lb → se cobra 5.5 lb
+ -Si el peso esta entre 5.6 y 6.0 lb → se cobra 6.0 lb
+ -Si el peso esta entre 6.1 y 6.5 lb → se cobra 6.5 lb
+ -Si el peso esta entre 6.6 y 7.0 lb → se cobra 7.0 lb
+ -Si el peso esta entre 7.1 y 7.5 lb → se cobra 7.5 lb
+ -Si el peso esta entre 7.6 y 8.0 lb → se cobra 8.0 lb
+ -Si el peso esta entre 8.1 y 8.5 lb → se cobra 8.5 lb
+ -Si el peso esta entre 8.6 y 9.0 lb → se cobra 9.0 lb
+ -Si el peso esta entre 9.1 y 9.5 lb → se cobra 9.5 lb
+ -Si el peso esta entre 9.6 y 10.0 lb → se cobra 10.0 lb
+ -Si el peso esta entre 10.1 y 10.5 lb → se cobra 10.5 lb
+ -Si el peso esta entre 10.6 y 11.0 lb → se cobra 11.0 lb
+ -Si el peso esta entre 11.1 y 11.5 lb → se cobra 11.5 lb
+ -Si el peso esta entre 11.6 y 12.0 lb → se cobra 12.0 lb
+ -Si el peso esta entre 12.1 y 12.5 lb → se cobra 12.5 lb
+ -Si el peso esta entre 12.6 y 13.0 lb → se cobra 13.0 lb
+ -Si el peso esta entre 13.1 y 13.5 lb → se cobra 13.5 lb
+ -Si el peso esta entre 13.6 y 14.0 lb → se cobra 14.0 lb
+ -Si el peso esta entre 14.1 y 14.5 lb → se cobra 14.5 lb
+ -Si el peso esta entre 14.6 y 15.0 lb → se cobra 15.0 lb
+ -Si el peso esta entre 15.1 y 15.5 lb → se cobra 15.5 lb
+ -Si el peso esta entre 15.6 y 16.0 lb → se cobra 16.0 lb
+ -Si el peso esta entre 16.1 y 16.5 lb → se cobra 16.5 lb
+ -Si el peso esta entre 16.6 y 17.0 lb → se cobra 17.0 lb
+ -Si el peso esta entre 17.1 y 17.5 lb → se cobra 17.5 lb
+ -Si el peso esta entre 17.6 y 18.0 lb → se cobra 18.0 lb
+ -Si el peso esta entre 18.1 a 18.5 lb → se cobra 18.5 lb
+ -Si el peso esta entre 18.6 a 19.0 lb → se cobra 19.0 lb
+ -Si el peso esta entre 19.1 a 19.5 lb → se cobra 19.5 lb
+ -Si el peso esta entre 19.6 a 20.0 lb → se cobra 20.0 lb
+-Este patrón se repite sucesivamente
+  
 
 ## Políticas Importantes
 - Horario de atención: Lunes a Viernes 8:00 a 18:00 y Sabados de: 9:00 a 14:00, no cerramos a medio día
@@ -166,10 +206,10 @@ A: TENEMOS AGENCIAS EN:
 EAST HAVEN en 199 SALTONSTALL PKWAY
 NORWALK en 72 West Ave 
 
-Q: ¿Que agencias tienen en el estado de MA?
+Q: ¿Que agencias tienen en el estado de MD?
 A: TENEMOS AGENCIAS EN:
-WORCHESTER 5 DANNY ST en 5 DANNY ST
-BELTSVILLE-MARYLAND en 13020 BELLEVUE ST. BELTSVILLE. MD  
+WORCHESTER 5 DANNY ST ubicada en 5 DANNY ST
+BELTSVILLE-MARYLAND ubicada en 13020 BELLEVUE ST. BELTSVILLE. MD  
 
 
 Q: ¿Que agencias tienen en EEUU?
@@ -180,6 +220,13 @@ A: La agencia se encuentra ubicada en la calle Guaranda y Ancón,Loja
 
 Q: ¿Manejan mercancía peligrosa?
 A: No, por el momento.
+
+Q: ¿DE QUE SE TRATA EL Nuevo Pago Arancelario por Compra DE 20 DOLARES?
+A: Todas las compras realizadas desde el exterior, estarán sujetas a un pago adicional de $20.00 por paquete. Siempre y cuando el paquete sea declarado en Categoría B (4x4), es decir paquetes que tengan un peso de hasta 4Kg y un valor máximo de hasta $400.00.
+
+Q: ¿QUE ALIEMENTOS PODEMOS ENVIAR?
+A: Los perecibles y frutas deben ser enviados en cajas térmicas y las carnes no deben estar crudas. EL CUY EMBASADO AL VACÍO, prohibida la carne de chancho o cerdo como fritada
+   No se permite el envío de más de 3 unidades del mismo producto por paquete.
 
 Q: ¿Se puden enviar Tamales y Humas?
 A: Si se puede enviar, pero deben estar empacadas al vacío, la agencia cuenta con empacadora al vacío así que no vas a tener ningún problema.
@@ -250,7 +297,7 @@ def ask_ai():
             ],
             headers=headers,
             temperature=0.5,  # Reducido para mayor precisión
-            max_tokens=500
+            max_tokens=550
         )
 
         # Eliminar asteriscos de la respuesta
