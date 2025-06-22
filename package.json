@@ -16,9 +16,11 @@
   "license": "MIT",
   "dependencies": {
     "@bot-whatsapp/bot": "^0.1.38",
-    "@bot-whatsapp/provider": "^0.1.38",
     "@bot-whatsapp/database": "^0.1.38",
-    "axios": "^1.6.8"
+    "@bot-whatsapp/provider": "^0.1.38",
+    "@whiskeysockets/baileys": "^6.5.0",
+    "axios": "^1.6.8",
+    "pino": "^9.7.0",
+    "wa-sticker-formatter": "^4.4.4"
   }
 }
-
