@@ -2,9 +2,10 @@ const { createBot, createFlow, addKeyword } = require('@bot-whatsapp/bot');
 const BaileysProvider = require('@bot-whatsapp/provider/baileys');
 const JsonFileAdapter = require('@bot-whatsapp/database/json');
 const axios = require('axios');
+const express = require('express');
 
 // 🔹 FLUJO SALUDO PRINCIPAL
-const flow2 = addKeyword(['hola', 'buen día', 'buen dia', 'buenos días', 'buenas tardes', 'buenas noches', 'buenos dias'])
+const flow2 = addKeyword(['hola', 'buen día', 'buen dia', 'buenos días', 'buenas tardes', 'buenas noches', 'buenos dias', 'ola', 'una preguntita'])
   .addAnswer('🙌 Hola, estás en contacto con el asistente virtual IA de Geomil Group.')
   .addAnswer(
     'Tienes preguntas de envíos o cotizaciones, solo escribe "*IA + (tu pregunta)*" y te contestaremos en segundos',
@@ -60,8 +61,23 @@ const main = async () => {
 };
 
 // Ejecutar y avisar al iniciar
-main().then(() => {
-  console.log('🤖 Bot iniciado y listo para recibir mensajes.');
-}).catch(err => {
-  console.error('Error iniciando el bot:', err);
+main()
+  .then(() => {
+    console.log('🤖 Bot iniciado y listo para recibir mensajes.');
+  })
+  .catch(err => {
+    console.error('Error iniciando el bot:', err);
+  });
+
+// Express para mantener el puerto abierto (requerido en Render Free)
+const app = express();
+
+app.get('/', (req, res) => {
+  res.send('🤖 Bot de Geomil Group corriendo');
+});
+
+// Render requiere escuchar en process.env.PORT
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+  console.log(`Servidor web escuchando en puerto ${PORT}`);
 });

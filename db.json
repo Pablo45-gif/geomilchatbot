@@ -1,15 +1,15 @@
 [
   {
-    "ref": "c8235ebf-6a89-46c8-bee8-e952a01e2044",
-    "keyword": "205f7643c44a5a6fd1ae19bf8f5eebda",
+    "ref": "d0790a91-80f5-426c-bc27-8fa169dad2ec",
+    "keyword": "193ef6200202ed54932491967bf65e59",
     "answer": "IA estas ahi",
     "options": {},
     "from": "593967426569",
     "refSerialize": "1075bdefff72adc2aa09172f4f5d1047"
   },
   {
-    "ref": "ans_ce22bb77-1073-4730-a9ab-11abfa76ae93",
-    "keyword": "key_4c187d46-7096-4e1d-9824-d736fc799be2",
+    "ref": "ans_b7410bb1-65b5-49be-ab8a-f9a4bc6aa6cb",
+    "keyword": "key_b3ef2d91-0479-4afd-93dd-32ff7bd5a0ae",
     "answer": "__call_action__",
     "options": {
       "media": null,
@@ -23,59 +23,13 @@
       "keyword": {},
       "callback": true
     },
-    "refSerialize": "83eb1a170073987c923086822822e1ab",
+    "refSerialize": "d49022054ba18216eddab4983b110dd6",
     "from": "593967426569"
   },
   {
-    "ref": "ans_7d217bc0-9c68-4b05-ba88-3a429f21e17f",
-    "keyword": "key_8b428936-d27a-4ee6-acb4-76f87eea042e",
-    "answer": "⚠️ Hubo un problema al procesar tu solicitud, por favor pregunta de nuevo.",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "205f7643c44a5a6fd1ae19bf8f5eebda",
-    "from": "593967426569"
-  },
-  {
-    "ref": "1e87c813-0446-4b4e-8bbd-a7b18606597d",
-    "keyword": "205f7643c44a5a6fd1ae19bf8f5eebda",
-    "answer": "IA estas ahi",
-    "options": {},
-    "from": "593967426569",
-    "refSerialize": "1075bdefff72adc2aa09172f4f5d1047"
-  },
-  {
-    "ref": "ans_ce22bb77-1073-4730-a9ab-11abfa76ae93",
-    "keyword": "key_4c187d46-7096-4e1d-9824-d736fc799be2",
-    "answer": "__call_action__",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [],
-      "keyword": {},
-      "callback": true
-    },
-    "refSerialize": "83eb1a170073987c923086822822e1ab",
-    "from": "593967426569"
-  },
-  {
-    "ref": "4d136f26-1828-4dd0-8683-e8475408f4e9",
+    "ref": "b5323ab6-b37a-4a52-93af-78e3672ee983",
     "keyword": null,
-    "answer": "¡Sí, estoy aquí! 😊 Listo para ayudarte con cualquier consulta sobre Geomil Group: equipos de construcción, demolición, reciclaje, o temas técnicos de maquinaria. Si necesitas detalles sobre productos como cucharas trituradoras, pulpos hidráulicos o servicios de postventa, ¡cuenta conmigo! ¿En qué puedo colaborarte hoy? 🚜🔧",
+    "answer": "¡Hola! 👋 Sí, estoy aquí para ayudarte con cualquier consulta sobre envíos internacionales, agencias, tarifas o documentación de Geomil Group. ¿En qué necesitas asistencia hoy? 😊  \n\nSi tienes dudas sobre cálculos de peso, costos o políticas, ¡avísame y te brindo los detalles precisos! 📦✨",
     "options": {
       "media": null,
       "buttons": [],
@@ -83,6 +37,46 @@
       "delay": 0
     },
     "from": "593967426569",
-    "refSerialize": "4fce54d873bd9d471f5d766335654adb"
+    "refSerialize": "37888ae6bf6e52bb6a341a2aac14e782"
+  },
+  {
+    "ref": "839ba79e-7845-4b4f-8ebd-50eca257816f",
+    "keyword": "d49022054ba18216eddab4983b110dd6",
+    "answer": "quiero enviar paquete a Madrid",
+    "options": {},
+    "from": "593967426569",
+    "refSerialize": "c303a5a7ac2d9fe0ce0ac46737188b0c"
+  },
+  {
+    "ref": "ans_b7410bb1-65b5-49be-ab8a-f9a4bc6aa6cb",
+    "keyword": "key_b3ef2d91-0479-4afd-93dd-32ff7bd5a0ae",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "d49022054ba18216eddab4983b110dd6",
+    "from": "593967426569"
+  },
+  {
+    "ref": "a9965d61-e957-4286-aee4-f605f84d4a69",
+    "keyword": null,
+    "answer": "📦 ¡Claro! Para enviar un paquete a Madrid con Geomil Group, sigue estos pasos:\n\n1️⃣ Agencias disponibles en Madrid:  \n- GEOMIL Central (Calle Buen Gobernador, 2)  \n- GEOMIL COSLADA (Av. Constitución 24)  \n- Otras ubicaciones cerca de estaciones de metro como Tetuán, Legazpi, Oporto y más.  \n\n2️⃣ Requisitos:  \n- 📄 Documentación: DNI o NIE del destinatario, dirección exacta, código postal y teléfono.  \n- 📦 Peso mínimo: 1 kg (aplica redondeo según reglas de España).  \n\n3️⃣ Costos:  \n- Agencia: $15.98 (primer kg) + $11.83/kg adicional (hasta 4 kg).  \n- Domicilio: $24.72 (primer kg) + $20.57/kg adicional.  \n\n4️⃣ Fechas de embarque:  \n- Salidas los lunes, miércoles y viernes. Lleva tu paquete un día antes para asegurar su envío.  \n\n¿Necesitas calcular el costo exacto o más detalles? 😊",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "593967426569",
+    "refSerialize": "77d81bdba2cbcc88f4983ec3efc25424"
   }
 ]

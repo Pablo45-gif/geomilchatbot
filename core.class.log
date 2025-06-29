@@ -1,0 +1,78 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: [32m'593967426569@s.whatsapp.net'[39m,
+    fromMe: [33mfalse[39m,
+    id: [32m'B0B848897DDAEFDD3591CBECEDAA26DC'[39m,
+    participant: [90mundefined[39m
+  },
+  messageTimestamp: [33m1751163870[39m,
+  pushName: [32m'Pabosl'[39m,
+  broadcast: [33mfalse[39m,
+  message: Message {
+    conversation: [32m'IA estas ahi'[39m,
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [36m[DeviceListMetadata][39m,
+      deviceListMetadataVersion: [33m2[39m,
+      messageSecret: [36m[Uint8Array][39m
+    }
+  },
+  body: [32m'IA estas ahi'[39m,
+  from: [32m'593967426569'[39m
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: [32m'ans_b7410bb1-65b5-49be-ab8a-f9a4bc6aa6cb'[39m,
+  keyword: [32m'key_b3ef2d91-0479-4afd-93dd-32ff7bd5a0ae'[39m,
+  answer: [32m'__call_action__'[39m,
+  options: {
+    media: [1mnull[22m,
+    buttons: [],
+    capture: [33mfalse[39m,
+    child: [1mnull[22m,
+    delay: [33m0[39m,
+    idle: [1mnull[22m,
+    ref: [1mnull[22m,
+    nested: [],
+    keyword: {},
+    callback: [33mtrue[39m
+  },
+  refSerialize: [32m'd49022054ba18216eddab4983b110dd6'[39m
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: [32m'593967426569@s.whatsapp.net'[39m,
+    fromMe: [33mfalse[39m,
+    id: [32m'9E10336105B4D493A3C74CD3D2486D69'[39m,
+    participant: [90mundefined[39m
+  },
+  messageTimestamp: [33m1751163912[39m,
+  pushName: [32m'Pabosl'[39m,
+  broadcast: [33mfalse[39m,
+  message: Message {
+    conversation: [32m'quiero enviar paquete a Madrid'[39m,
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [36m[DeviceListMetadata][39m,
+      deviceListMetadataVersion: [33m2[39m,
+      messageSecret: [36m[Uint8Array][39m
+    }
+  },
+  body: [32m'quiero enviar paquete a Madrid'[39m,
+  from: [32m'593967426569'[39m
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: [32m'ans_b7410bb1-65b5-49be-ab8a-f9a4bc6aa6cb'[39m,
+  keyword: [32m'key_b3ef2d91-0479-4afd-93dd-32ff7bd5a0ae'[39m,
+  answer: [32m'__call_action__'[39m,
+  options: {
+    media: [1mnull[22m,
+    buttons: [],
+    capture: [33mfalse[39m,
+    child: [1mnull[22m,
+    delay: [33m0[39m,
+    idle: [1mnull[22m,
+    ref: [1mnull[22m,
+    nested: [],
+    keyword: {},
+    callback: [33mtrue[39m
+  },
+  refSerialize: [32m'd49022054ba18216eddab4983b110dd6'[39m
+}
